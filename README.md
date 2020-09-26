@@ -59,7 +59,7 @@ npm install
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-See P5.py to see the implementation. 
+See p2.py to see the implementation. 
 
 This algorithm can be used in the real world for when students are preferencing future colleges to attend or if some dating show needs to pair couples together. 
 
